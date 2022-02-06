@@ -1,0 +1,6 @@
+2022-02-06 12:59:56.789 [AWT-EventQueue-0] INFO  App - Application started
+2022-02-06 13:00:23.971 [AWT-EventQueue-0] INFO  App - Application started
+2022-02-06 13:03:51.381 [main] DEBUG AppTest - TAN format ok
+2022-02-06 13:03:51.384 [main] DEBUG AppTest - passed TAN without T
+2022-02-06 13:03:51.386 [main] DEBUG AppTest - Test valid city
+2022-02-06 13:03:51.386 [main] INFO  AppTest - Test valid NOT
